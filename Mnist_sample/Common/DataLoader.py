@@ -6,7 +6,7 @@ class DataLoader:
     labels = []
     labels_onehot = []
 
-    dataPath = 'Dataset/'
+    dataPath = '/home/thu-skyworks/shejp20/python/pytorch_study/Mnist_sample/Dataset/'
 
     train_images = []
     train_labels = []
